@@ -1,0 +1,15 @@
+.container {
+  width: 400px;
+  height: 250px;
+  margin: 0 auto;
+  overflow: hidden;
+  border: 0; }
+  .container ul {
+    width: 2000px;
+    list-style-type: none; }
+  .container li {
+    width: 400px;
+    height: 250px;
+    float: left; }
+
+/*# sourceMappingURL=style.css.map */
